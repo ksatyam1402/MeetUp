@@ -7,7 +7,9 @@ MeetUp ruuning APK file :
 https://drive.google.com/file/d/1vhKuTQ5u8ONIoyADxBAn46nWDWAMwsib/view?usp=sharing
 
 
+Screenshots :
 
+Screenshots are available in MeetUp Documentations - MeetUp/MeetUp Documentations.pdf
 
 
 Team Details
