@@ -2,7 +2,7 @@
 
 Project MeetUp
 
-MeetUp ruuning APK file : 
+MeetUp running APK file : 
 
 https://drive.google.com/file/d/1vhKuTQ5u8ONIoyADxBAn46nWDWAMwsib/view?usp=sharing
 
