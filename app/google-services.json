@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457647267201",
+    "project_id": "rooms-20de4",
+    "storage_bucket": "rooms-20de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457647267201:android:248fb7831f5240771e9c80",
+        "android_client_info": {
+          "package_name": "com.example.rooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457647267201-0dl6f60j0p1tsnvs8999ogldrh8mpp1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9ylaPBghzHlD8q1EVUd-3HCrxW2Ciss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457647267201-0dl6f60j0p1tsnvs8999ogldrh8mpp1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
